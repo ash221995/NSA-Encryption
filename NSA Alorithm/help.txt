@@ -1,0 +1,7 @@
+Main file and main class = Ns.java(Encription) 
+Main file and main class = Ns2.java(Decription)
+Output Image = out.png
+Cover Image = input.png
+Input text or message =Input.txt
+
+
